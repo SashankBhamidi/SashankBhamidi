@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=SashankBhamidi&show_icons=true&theme=minimal&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=SashankBhamidi&show_icons=true&theme=minimal&count_private=true&include_all_commits=true" alt="Sashank's GitHub Stats" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SashankBhamidi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sashank's github stats" /></a>
 </p>
 
 <p align="center">
