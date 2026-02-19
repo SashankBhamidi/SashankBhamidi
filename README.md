@@ -5,7 +5,7 @@
 <p align="center">
   Maintainer —
   <a href="https://github.com/collective/icalendar">icalendar</a>,
-  <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a> •
+  <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a>
   Developer —
   <a href="https://hungrybot.xyz">Hungry</a>
 </p>
