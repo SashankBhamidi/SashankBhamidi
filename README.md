@@ -2,15 +2,14 @@
   <strong>Sashank Bhamidi</strong>
 </p>
 <p align="center">
-  Maintainer: 
-  <a href="https://github.com/collective/icalendar">icalendar</a>,
-  <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a>
+  Building: <a href="https://bizcred.in">BizCred</a>, <a href="https://vistora.app">Vistora</a>
   <br>
-  Developer: 
-  <a href="https://hungrybot.xyz">Hungry</a>
+  Developer: <a href="https://hungrybot.xyz">Hungry</a>
+  <br>
+  Maintainer: <a href="https://github.com/collective/icalendar">icalendar</a>, <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SashankBhamidi&theme=buefy&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SashankBhamidi&theme=onedark&hide_border=true" />
 </p>
 <p align="center">
   <em>Stats show public activity only.</em>
