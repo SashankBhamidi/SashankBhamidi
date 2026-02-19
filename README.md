@@ -4,11 +4,10 @@
 
 <p align="center">
   Maintainer —
-  <a href="https://github.com/collective/icalendar">icalendar (Python)</a> •
-  <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a>
-  <br/>
+  <a href="https://github.com/collective/icalendar">icalendar</a>,
+  <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a> •
   Developer —
-  <a href="https://hungrybot.xyz">Hungry</a> (200k+ users)
+  <a href="https://hungrybot.xyz">Hungry</a>
 </p>
 
 <p align="center">
