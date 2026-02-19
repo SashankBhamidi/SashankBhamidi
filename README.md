@@ -1,26 +1,20 @@
 <p align="center">
   <strong>Sashank Bhamidi</strong>
 </p>
-
 <p align="center">
-  Maintainer —
+  Maintainer: 
   <a href="https://github.com/collective/icalendar">icalendar</a>,
   <a href="https://github.com/mergecal/icalendar-anonymizer">icalendar-anonymizer</a>
   <br>
-  Developer —
+  Developer: 
   <a href="https://hungrybot.xyz">Hungry</a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SashankBhamidi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=SashankBhamidi&theme=buefy&hide_border=true" />
 </p>
-
 <p align="center">
   <em>Stats show public activity only.</em>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SashankBhamidi&color=blue" />
 </p>
