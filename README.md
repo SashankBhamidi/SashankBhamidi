@@ -2,7 +2,7 @@
   <strong>Sashank Bhamidi</strong>
 </p>
 <p align="center">
-  Building: <a href="https://bizcred.in">BizCred (not live yet)</a>
+  Building: <a href="https://bizcred.in">BizCred</a>
   <br>
   Developer: <a href="https://hungrybot.xyz">Hungry</a>
   <br>
